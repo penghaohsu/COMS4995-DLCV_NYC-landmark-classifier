@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual env
+venv/
+.env/
+
+# Checkpoints / weights
+*.pth
+*.pt
+checkpoints/
+weights/
+
+# Large datasets (do NOT push raw image dataset)
+dataset/
+data/
+
+# Logs
+*.log
+logs/
+runs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

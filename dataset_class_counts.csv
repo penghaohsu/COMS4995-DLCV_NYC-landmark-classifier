@@ -1,0 +1,16 @@
+class_name,train_count,valid_count
+30HudsonYards,112,22
+432ParkAve,101,18
+BrooklynBridge,160,19
+ChryslerBuilding,157,50
+ColumbiaLowMemorialLibrary,100,20
+EmpireState,111,35
+Flatiron,123,29
+MetlifeBuilding,101,18
+NYPublicLibrary,112,28
+StatueOfLiberty,146,46
+TheSummit,100,19
+TheVessel,101,18
+Timesquare,100,20
+UNBuilding,109,33
+WTC,128,30
